@@ -86,3 +86,7 @@ p.venue {
 #solidlab {
   background: #292F4D;
 }
+
+ol.tight > li {
+  margin-bottom: 30px;
+}
